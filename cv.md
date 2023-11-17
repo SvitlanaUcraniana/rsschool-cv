@@ -14,4 +14,4 @@
 * React.js
 * Node.js
 
-*To be continued...:wink:
+*To be continued...* :wink:
